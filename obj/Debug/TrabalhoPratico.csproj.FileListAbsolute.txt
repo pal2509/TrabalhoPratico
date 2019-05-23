@@ -1,0 +1,14 @@
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\bin\Debug\TrabalhoPratico.pdb
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
+C:\Users\Paulo\Desktop\C#\TrabalhoPratico\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\bin\Debug\TrabalhoPratico.exe
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\bin\Debug\TrabalhoPratico.pdb
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\obj\Debug\TrabalhoPratico.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\obj\Debug\TrabalhoPratico.exe
+C:\Users\Paulo\Desktop\C#\trabalhoLP2_17611_Fase1\TrabalhoPratico\obj\Debug\TrabalhoPratico.pdb
